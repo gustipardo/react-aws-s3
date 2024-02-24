@@ -1,8 +1,8 @@
 import './App.css'; // Asegúrate de tener tus estilos CSS en este archivo
-import Image1 from './assets/1.jpeg';
-import Image2 from './assets/2.jpeg';
-import Image3 from './assets/3.jpeg';
-import Image4 from './assets/4.jpeg';
+import Image1 from '../public/assets/1.jpeg';
+import Image2 from '../public/assets/2.jpeg';
+import Image3 from '../public/assets/3.jpeg';
+import Image4 from '../public/assets/4.jpeg';
  
 function App() {
   return (
